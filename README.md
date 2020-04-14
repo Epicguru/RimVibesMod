@@ -10,8 +10,19 @@ Press Subscribe (and Like :D) on the Steam Workshop page. For non-Steam users, d
 
 ## How to use
 Once you open the game with the mod installed, it should show a Terms of Use dialog that you should read and accept. Then, it will prompt you to connect your Spotify account to the mod (known as Authorizing). Simply follow the instructions and it should be fairly straightforward from there.
-Next click the button on the main menu to check that your account is connected successfully. If you are playing music on Spotify, it should display the name of the song.
-Now you should also see a smaller, semi-transparent button that appears in the top-right area of your screen, by default. Clicking this brings up the control panel, where you can do things like pause, skip etc.
+Next click the button on the main menu to check that your account is connected successfully.
+
+![Main menu button](https://github.com/Epicguru/RimVibesMod/blob/master/Documentation%20Images/Main%20Menu%20Button.png)
+
+If you are playing music on Spotify, it should display the name of the song.
+Now you should also see a smaller, semi-transparent button that appears in the top-right area of your screen, by default.
+
+![Main menu button](https://github.com/Epicguru/RimVibesMod/blob/master/Documentation%20Images/Main%20Menu%20HUD%20Button.png)
+
+Clicking this brings up the control panel, where you can do things like pause, skip etc.
+
+## Settings
+You can control many important things from the settings menu in this mod. Simply go to Options>Mod Options>RimVibes and take a look at the options. The most important one is the Anchor and Offset settings. The Anchor changes where the control panel will appear, such as on the right or left side of the screen, and the Offset values allow you to finely adjust where you want to place the panel.
 
 ## Troubleshooting
 Even though the mod is simple in functionality, there is some surprisingly complicated stuff going on in the background. Bugs are expected to come up, and you can help me fix them. Please create an issue here on Github to notify me of bugs.
